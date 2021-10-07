@@ -1,6 +1,24 @@
 # Harry-Kart
 
-## Description
+## Available Scripts
+
+Build the app using
+
+`mvn install`
+
+or
+
+`mvn clean install`
+
+Start the app using
+
+`mvn spring-boot:run`
+
+Run only the test cases using
+
+`mvn test`
+
+## Problem Description
 
 Harry-Kart in a special kind of horse racing.
 
